@@ -13,7 +13,8 @@ I specialize in Blazor, ASP.NET Core, Entity Framework, ESP32 + nanoFramework, a
 
 ## 📈 GitHub Stats
 
-[![unrealbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealbg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=unrealbg&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&theme=dark" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealbg&layout=compact&hide_border=true&theme=dark" alt="Top Langs" /> |
+| --- | --- |
 
 ## 🤝 Connect with Me
 
