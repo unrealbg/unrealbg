@@ -1,6 +1,6 @@
 # Hi, I'm Zhelyazko! 👋
 
-![](https://komarev.com/ghpvc/?username=unrealbg&color=5C2D91&style=flat-square)
+![Profile Views](https://iot.unrealbg.com/api/githubviews/unrealbg)
 
 I'm a **.NET & IoT Developer** from Burgas, Bulgaria, passionate about building scalable and efficient solutions.  
 I specialize in Blazor, ASP.NET Core, Entity Framework, ESP32 + nanoFramework, and Azure to create cutting-edge IoT and web applications.
