@@ -20,7 +20,7 @@ I specialize in Blazor, ASP.NET Core, Entity Framework, ESP32 + nanoFramework, a
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhelyazko-zhelyazkov-1761a6119/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unrealbg)
 [![Email](https://img.shields.io/badge/Email-jack@unrealbg.com-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:jack@unrealbg.com)
 
 ---
