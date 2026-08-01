@@ -1,29 +1,79 @@
-# Hi, I'm Zhelyazko! 👋
+# Hi, I'm Zhelyazko 👋
 
-![](https://komarev.com/ghpvc/?username=unrealbg)
+**.NET & IoT Developer** based in Burgas, Bulgaria.
 
-I'm a **.NET & IoT Developer** from Burgas, Bulgaria, passionate about building scalable and efficient solutions.  
-I specialize in Blazor, ASP.NET Core, Entity Framework, ESP32 + nanoFramework, and Azure to create cutting-edge IoT and web applications.
+I build web applications, APIs, IoT platforms, and self-hosted services using the Microsoft .NET ecosystem.
 
-## ⚙️ Tech & Tools
+My main focus is on:
 
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)]()
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)]()
-[![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat-square&logo=.net&logoColor=white)]()
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+- Blazor and ASP.NET Core applications
+- ESP32 devices with .NET nanoFramework
+- MQTT-based telemetry and device control
+- PostgreSQL, Entity Framework Core, and Redis
+- Dockerized deployments on Linux VPS infrastructure
 
-## 📈 GitHub Stats
+## 🛠️ Core Stack
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=unrealbg&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&theme=dark" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealbg&layout=compact&hide_border=true&theme=dark" alt="Top Langs" /> |
-| --- | --- |
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-## 🤝 Connect with Me
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unrealbg)
-[![Email](https://img.shields.io/badge/Email-jack@unrealbg.com-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:jack@unrealbg.com)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![nanoFramework](https://img.shields.io/badge/.NET_nanoFramework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+## 🚀 Current Focus
+
+- Building a Blazor-based IoT weather and device monitoring platform
+- Developing ESP32 firmware with .NET nanoFramework and MQTT
+- Building and operating self-hosted .NET services
+- Working on an IRC server and services platform written in .NET
+- Improving deployment, monitoring, and security automation
+
+## 📂 Selected Projects
+
+### [BlazorBlog](https://github.com/unrealbg/BlazorBlog)
+
+A self-hosted blogging platform built with Blazor and ASP.NET Core.
+
+### [ESP32 nanoFramework EnvMonitor](https://github.com/unrealbg/ESP32-nanoFramework-EnvMonitor)
+
+Environmental monitoring and MQTT communication for ESP32 devices using .NET nanoFramework.
+
+### [System.Device.WiFi](https://github.com/unrealbg/System.Device.WiFi)
+
+Experiments and components related to Wi-Fi communication in the .NET IoT ecosystem.
+
+## 📊 GitHub Activity
+
+<p>
+  <img
+    src="./profile/stats.svg"
+    height="170"
+    alt="Zhelyazko's GitHub statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="170"
+    alt="Most used languages"
+  />
+</p>
+
+> Language statistics represent repository code distribution, not proficiency.
+
+## 🤝 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unrealbg)
+[![Email](https://img.shields.io/badge/jack%40unrealbg.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jack@unrealbg.com)
 
 ---
 
-**Thank you for visiting my profile!**  
-Feel free to explore my repositories and reach out if you’d like to collaborate or have any questions.
+Open to collaboration on .NET, Blazor, IoT, and self-hosted software projects.
