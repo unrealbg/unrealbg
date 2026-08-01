@@ -38,20 +38,6 @@ My main focus is on:
 - Working on an IRC server and services platform written in .NET
 - Improving deployment, monitoring, and security automation
 
-## 📂 Selected Projects
-
-### [BlazorBlog](https://github.com/unrealbg/BlazorBlog)
-
-A self-hosted blogging platform built with Blazor and ASP.NET Core.
-
-### [ESP32 nanoFramework EnvMonitor](https://github.com/unrealbg/ESP32-nanoFramework-EnvMonitor)
-
-Environmental monitoring and MQTT communication for ESP32 devices using .NET nanoFramework.
-
-### [System.Device.WiFi](https://github.com/unrealbg/System.Device.WiFi)
-
-Experiments and components related to Wi-Fi communication in the .NET IoT ecosystem.
-
 ## 📊 GitHub Activity
 
 <p>
