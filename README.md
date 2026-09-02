@@ -32,11 +32,11 @@ My main focus is on:
 
 ## 🚀 Current Focus
 
-- Building a Blazor-based IoT weather and device monitoring platform
-- Developing ESP32 firmware with .NET nanoFramework and MQTT
-- Building and operating self-hosted .NET services
-- Working on an IRC server and services platform written in .NET
-- Improving deployment, monitoring, and security automation
+- Building production-ready .NET web applications and APIs
+- Developing IoT solutions with ESP32, .NET nanoFramework, and MQTT
+- Designing self-hosted backend services and automation workflows
+- Improving deployment, monitoring, and security on Linux VPS infrastructure
+- Working with PostgreSQL, Redis, and containerized .NET environments
 
 ## 📊 GitHub Activity
 
