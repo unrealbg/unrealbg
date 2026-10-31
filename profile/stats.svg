@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zhelyazko Zhelyazkov's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 58, Total Commits  : 3762, Total PRs: 293, Total Issues: 66, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 58, Total Commits  : 3780, Total PRs: 298, Total Issues: 66, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 69.10638349027094;
+        stroke-dashoffset: 68.99565612184198;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >293</text>
+      >298</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
